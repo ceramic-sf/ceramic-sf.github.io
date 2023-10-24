@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="471px" preserveAspectRatio="none" style="width:1754px;height:471px;background:#FFFFFF;" version="1.1" viewBox="0 0 1754 471" width="1754px" zoomAndPan="magnify"><defs/><g><g id="elem_there_is_no_absolute_truth"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="873" x="392.5" y="395.4"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="186" x="736" y="410.9352">there_is_no_absolute_truth</text><line style="stroke:#181818;stroke-width:0.5;" x1="393.5" x2="1264.5" y1="415.8883" y2="415.8883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="861" x="398.5" y="433.4234">Things can seem true, but there is always some error that can be improved. So a better description is "our best effort at truth".</text><line style="stroke:#181818;stroke-width:0.5;" x1="393.5" x2="1264.5" y1="440.3766" y2="440.3766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="388" x="398.5" y="457.9117">We can only have provisional truth. Everything is fallable.</text></g><g id="elem_fallabalism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="800" x="7" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="370" y="281.4652">fallabalism</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="806" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="788" x="13" y="303.9534">Everything may be wrong in some way. Good ideas are very useful, but they may always be replaced by better ideas.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="806" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="13" y="328.4417">TODO</text></g><g id="elem_theories_replace_each_other_yet_truth_growths"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="820" x="842" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="327" x="1088.5" y="281.4652">theories_replace_each_other_yet_truth_growths</text><line style="stroke:#181818;stroke-width:0.5;" x1="843" x2="1661" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="808" x="848" y="303.9534">Better ideas don't sit atop old ideas. They push the old to the side. Though the old likely contains some useful portion.</text><line style="stroke:#181818;stroke-width:0.5;" x1="843" x2="1661" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="431" x="848" y="328.4417">New theories replace old ones, yet the old contains some truth.</text></g><g id="elem_truth"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="990" x="757" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="1235" y="152.0052">truth</text><line style="stroke:#181818;stroke-width:0.5;" x1="758" x2="1746" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="978" x="763" y="174.4934">A truth is a statement of something that is real. A falsity is a statement of something that is not real. Things can have some true and false parts.</text><line style="stroke:#181818;stroke-width:0.5;" x1="758" x2="1746" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="763" y="198.9817">Truth is a regularity in nature.</text></g><g id="elem_realism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="504" x="1000" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="1227" y="22.5352">realism</text><line style="stroke:#181818;stroke-width:0.5;" x1="1001" x2="1503" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="492" x="1006" y="45.0234">To believe that the world around us exists is both practical and rational.</text><line style="stroke:#181818;stroke-width:0.5;" x1="1001" x2="1503" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="338" x="1006" y="69.5117">Realism is the acknowledgement objective reality.</text></g><!--MD5=[ef5261ef0fe58c6f069ce0d7f2b96d92]
+reverse link fallabalism to there_is_no_absolute_truth--><g id="link_fallabalism_there_is_no_absolute_truth"><path codeLine="7" d="M525.82,337.55 C585.4,355.55 657.2,377.24 715.97,394.99 " fill="none" id="fallabalism-backto-there_is_no_absolute_truth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="521.09,335.82,528.5523,342.2477,525.8772,337.2633,530.8615,334.5882,521.09,335.82" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[53018d9e1c5c458174fcf7c249641c13]
+reverse link theories_replace_each_other_yet_truth_growths to there_is_no_absolute_truth--><g id="link_theories_replace_each_other_yet_truth_growths_there_is_no_absolute_truth"><path codeLine="8" d="M1132.9,337.55 C1073.17,355.55 1001.21,377.24 942.3,394.99 " fill="none" id="theories_replace_each_other_yet_truth_growths-backto-there_is_no_absolute_truth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1137.64,335.82,1127.8685,334.5882,1132.8528,337.2633,1130.1777,342.2477,1137.64,335.82" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4b2ffc2771ad779d8bc553f8bd55f2c6]
+reverse link truth to theories_replace_each_other_yet_truth_growths--><g id="link_truth_theories_replace_each_other_yet_truth_growths"><path codeLine="21" d="M1252,212.1 C1252,229.35 1252,249.34 1252,265.85 " fill="none" id="truth-backto-theories_replace_each_other_yet_truth_growths" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1252,207.36,1248,216.36,1252,212.36,1256,216.36,1252,207.36" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c651fbfa99fffad2770fdc28d7bad794]
+reverse link realism to truth--><g id="link_realism_truth"><path codeLine="28" d="M1252,82.63 C1252,99.89 1252,119.87 1252,136.39 " fill="none" id="realism-backto-truth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1252,77.89,1248,86.89,1252,82.89,1256,86.89,1252,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4f70ffaa337f0ca9aa8c430031ae9773]
+@startuml bolq_diagram_there_is_no_absolute_truth
+
+object there_is_no_absolute_truth {
+Things can seem true, but there is always some error that can be improved. So a better description is "our best effort at truth".
+____
+We can only have provisional truth. Everything is fallable.
+}
+fallabalism <- - there_is_no_absolute_truth
+theories_replace_each_other_yet_truth_growths <- - there_is_no_absolute_truth
+
+object fallabalism {
+Everything may be wrong in some way. Good ideas are very useful, but they may always be replaced by better ideas.
+____
+TODO
+}
+
+object theories_replace_each_other_yet_truth_growths {
+Better ideas don't sit atop old ideas. They push the old to the side. Though the old likely contains some useful portion.
+____
+New theories replace old ones, yet the old contains some truth.
+}
+truth <- - theories_replace_each_other_yet_truth_growths
+
+object truth {
+A truth is a statement of something that is real. A falsity is a statement of something that is not real. Things can have some true and false parts.
+____
+Truth is a regularity in nature.
+}
+realism <- - truth
+
+object realism {
+To believe that the world around us exists is both practical and rational.
+____
+Realism is the acknowledgement objective reality.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

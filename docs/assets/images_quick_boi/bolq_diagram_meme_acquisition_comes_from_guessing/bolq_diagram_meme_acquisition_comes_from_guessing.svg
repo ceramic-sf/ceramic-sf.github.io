@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="342px" preserveAspectRatio="none" style="width:902px;height:342px;background:#FFFFFF;" version="1.1" viewBox="0 0 902 342" width="902px" zoomAndPan="magnify"><defs/><g><g id="elem_meme_acquisition_comes_from_guessing"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="444" x="229" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="284" x="309" y="281.4652">meme_acquisition_comes_from_guessing</text><line style="stroke:#181818;stroke-width:0.5;" x1="230" x2="672" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="324" x="235" y="303.9534">Memes are guessed and attempted, not copied.</text><line style="stroke:#181818;stroke-width:0.5;" x1="230" x2="672" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="432" x="235" y="328.4417">Memes are adopted through a creative process in the recipient.</text></g><g id="elem_knowledge_is_created_by_conjecture_and_refutation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="587" x="157.5" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="361" x="270.5" y="151.9952">knowledge_is_created_by_conjecture_and_refutation</text><line style="stroke:#181818;stroke-width:0.5;" x1="158.5" x2="743.5" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="575" x="163.5" y="174.4834">Knowledge is made by coming up with an idea, and challenging it to see if it is right.</text><line style="stroke:#181818;stroke-width:0.5;" x1="158.5" x2="743.5" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="348" x="163.5" y="198.9717">Knowledge is created by conjecture and refutation.</text></g><g id="elem_knowledge"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="888" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="413.5" y="22.5352">knowledge</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="894" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="475" x="13" y="45.0234">Something that can point itself at something and physically change it.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="894" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="876" x="13" y="69.5117">Knowledge is something that if it points itself at a suitable destination, it has a transformative effect in reality at that destination.</text></g><!--MD5=[216180258aabf5e3d0fcc4ff8f17d88e]
+reverse link knowledge_is_created_by_conjecture_and_refutation to meme_acquisition_comes_from_guessing--><g id="link_knowledge_is_created_by_conjecture_and_refutation_meme_acquisition_comes_from_guessing"><path codeLine="7" d="M451,212.09 C451,229.35 451,249.33 451,265.85 " fill="none" id="knowledge_is_created_by_conjecture_and_refutation-backto-meme_acquisition_comes_from_guessing" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="451,207.35,447,216.35,451,212.35,455,216.35,451,207.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f347ec42cd57a97ec2cd4a5d5fe9d735]
+reverse link knowledge to knowledge_is_created_by_conjecture_and_refutation--><g id="link_knowledge_knowledge_is_created_by_conjecture_and_refutation"><path codeLine="14" d="M451,82.63 C451,99.88 451,119.87 451,136.38 " fill="none" id="knowledge-backto-knowledge_is_created_by_conjecture_and_refutation" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="451,77.89,447,86.89,451,82.89,455,86.89,451,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d652c5fbba5c27fbaae98f5113a66e29]
+@startuml bolq_diagram_meme_acquisition_comes_from_guessing
+
+object meme_acquisition_comes_from_guessing {
+Memes are guessed and attempted, not copied.
+____
+Memes are adopted through a creative process in the recipient.
+}
+knowledge_is_created_by_conjecture_and_refutation <- - meme_acquisition_comes_from_guessing
+
+object knowledge_is_created_by_conjecture_and_refutation {
+Knowledge is made by coming up with an idea, and challenging it to see if it is right.
+____
+Knowledge is created by conjecture and refutation.
+}
+knowledge <- - knowledge_is_created_by_conjecture_and_refutation
+
+object knowledge {
+Something that can point itself at something and physically change it.
+____
+Knowledge is something that if it points itself at a suitable destination, it has a transformative effect in reality at that destination.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

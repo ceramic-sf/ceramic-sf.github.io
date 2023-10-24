@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="342px" preserveAspectRatio="none" style="width:1004px;height:342px;background:#FFFFFF;" version="1.1" viewBox="0 0 1004 342" width="1004px" zoomAndPan="magnify"><defs/><g><g id="elem_theories_replace_each_other_yet_truth_growths"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="820" x="92" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="327" x="338.5" y="281.4652">theories_replace_each_other_yet_truth_growths</text><line style="stroke:#181818;stroke-width:0.5;" x1="93" x2="911" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="808" x="98" y="303.9534">Better ideas don't sit atop old ideas. They push the old to the side. Though the old likely contains some useful portion.</text><line style="stroke:#181818;stroke-width:0.5;" x1="93" x2="911" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="431" x="98" y="328.4417">New theories replace old ones, yet the old contains some truth.</text></g><g id="elem_truth"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="990" x="7" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="485" y="151.9952">truth</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="996" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="978" x="13" y="174.4834">A truth is a statement of something that is real. A falsity is a statement of something that is not real. Things can have some true and false parts.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="996" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="13" y="198.9717">Truth is a regularity in nature.</text></g><g id="elem_realism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="504" x="250" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="477" y="22.5352">realism</text><line style="stroke:#181818;stroke-width:0.5;" x1="251" x2="753" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="492" x="256" y="45.0234">To believe that the world around us exists is both practical and rational.</text><line style="stroke:#181818;stroke-width:0.5;" x1="251" x2="753" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="338" x="256" y="69.5117">Realism is the acknowledgement objective reality.</text></g><!--MD5=[4b2ffc2771ad779d8bc553f8bd55f2c6]
+reverse link truth to theories_replace_each_other_yet_truth_growths--><g id="link_truth_theories_replace_each_other_yet_truth_growths"><path codeLine="7" d="M502,212.09 C502,229.35 502,249.33 502,265.85 " fill="none" id="truth-backto-theories_replace_each_other_yet_truth_growths" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="502,207.35,498,216.35,502,212.35,506,216.35,502,207.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c651fbfa99fffad2770fdc28d7bad794]
+reverse link realism to truth--><g id="link_realism_truth"><path codeLine="14" d="M502,82.63 C502,99.88 502,119.87 502,136.38 " fill="none" id="realism-backto-truth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="502,77.89,498,86.89,502,82.89,506,86.89,502,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[62f33ccaa7fb635ff1f7fe2a7ed38ef5]
+@startuml bolq_diagram_theories_replace_each_other_yet_truth_growths
+
+object theories_replace_each_other_yet_truth_growths {
+Better ideas don't sit atop old ideas. They push the old to the side. Though the old likely contains some useful portion.
+____
+New theories replace old ones, yet the old contains some truth.
+}
+truth <- - theories_replace_each_other_yet_truth_growths
+
+object truth {
+A truth is a statement of something that is real. A falsity is a statement of something that is not real. Things can have some true and false parts.
+____
+Truth is a regularity in nature.
+}
+realism <- - truth
+
+object realism {
+To believe that the world around us exists is both practical and rational.
+____
+Realism is the acknowledgement objective reality.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

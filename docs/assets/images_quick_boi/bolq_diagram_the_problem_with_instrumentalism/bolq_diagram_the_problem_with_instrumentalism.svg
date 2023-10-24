@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="342px" preserveAspectRatio="none" style="width:1662px;height:342px;background:#FFFFFF;" version="1.1" viewBox="0 0 1662 342" width="1662px" zoomAndPan="magnify"><defs/><g><g id="elem_the_problem_with_instrumentalism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1183" x="239.5" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="710.5" y="281.4652">the_problem_with_instrumentalism</text><line style="stroke:#181818;stroke-width:0.5;" x1="240.5" x2="1421.5" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1171" x="245.5" y="303.9534">If something gives good results, you may trust the machine not care how it really works. However if you have the wrong idea, you may never know what is really happening.</text><line style="stroke:#181818;stroke-width:0.5;" x1="240.5" x2="1421.5" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="670" x="245.5" y="328.4417">Instrumentalism discourages the creation of good explanations. It is closely related to empiricism.</text></g><g id="elem_the_problem_with_empiricism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1648" x="7" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="728.5" y="151.9952">the_problem_with_empiricism</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1654" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1086" x="13" y="174.4834">Empiricism ("seeing is believing") is wrong. It is not enough to see things to understand them, you must develop an idea about that thing and then challenge it.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1654" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1636" x="13" y="198.9717">Empiricism (observations lead to knowledge) is refuted by [fallabalism](#fallabalism) (any piece of knowledge may be wrong), for all observations are made by people in the end. Knowledge is formed first through conjecture then refutation.</text></g><g id="elem_fallabalism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="800" x="431" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="794" y="22.5352">fallabalism</text><line style="stroke:#181818;stroke-width:0.5;" x1="432" x2="1230" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="788" x="437" y="45.0234">Everything may be wrong in some way. Good ideas are very useful, but they may always be replaced by better ideas.</text><line style="stroke:#181818;stroke-width:0.5;" x1="432" x2="1230" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="437" y="69.5117">TODO</text></g><!--MD5=[f521ed33e314246008158263e09805ab]
+reverse link the_problem_with_empiricism to the_problem_with_instrumentalism--><g id="link_the_problem_with_empiricism_the_problem_with_instrumentalism"><path codeLine="7" d="M831,212.09 C831,229.35 831,249.33 831,265.85 " fill="none" id="the_problem_with_empiricism-backto-the_problem_with_instrumentalism" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="831,207.35,827,216.35,831,212.35,835,216.35,831,207.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2382108cd7aa1defd21cfa7e96841248]
+reverse link fallabalism to the_problem_with_empiricism--><g id="link_fallabalism_the_problem_with_empiricism"><path codeLine="14" d="M831,82.63 C831,99.88 831,119.87 831,136.38 " fill="none" id="fallabalism-backto-the_problem_with_empiricism" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="831,77.89,827,86.89,831,82.89,835,86.89,831,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9fc00ccaa703a7227d62219e0c9b4e31]
+@startuml bolq_diagram_the_problem_with_instrumentalism
+
+object the_problem_with_instrumentalism {
+If something gives good results, you may trust the machine not care how it really works. However if you have the wrong idea, you may never know what is really happening.
+____
+Instrumentalism discourages the creation of good explanations. It is closely related to empiricism.
+}
+the_problem_with_empiricism <- - the_problem_with_instrumentalism
+
+object the_problem_with_empiricism {
+Empiricism ("seeing is believing") is wrong. It is not enough to see things to understand them, you must develop an idea about that thing and then challenge it.
+____
+Empiricism (observations lead to knowledge) is refuted by [fallabalism](#fallabalism) (any piece of knowledge may be wrong), for all observations are made by people in the end. Knowledge is formed first through conjecture then refutation.
+}
+fallabalism <- - the_problem_with_empiricism
+
+object fallabalism {
+Everything may be wrong in some way. Good ideas are very useful, but they may always be replaced by better ideas.
+____
+TODO
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="342px" preserveAspectRatio="none" style="width:1493px;height:342px;background:#FFFFFF;" version="1.1" viewBox="0 0 1493 342" width="1493px" zoomAndPan="magnify"><defs/><g><g id="elem_systems_can_be_designed_at_high_levels_not_low_levels"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1293" x="145.5" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="388" x="598" y="281.4652">systems_can_be_designed_at_high_levels_not_low_levels</text><line style="stroke:#181818;stroke-width:0.5;" x1="146.5" x2="1437.5" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1015" x="151.5" y="303.9534">A designer can be an okay explanation for something if there is a good explanation for how the designer arose from a knowledge-creating process.</text><line style="stroke:#181818;stroke-width:0.5;" x1="146.5" x2="1437.5" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1281" x="151.5" y="328.4417">A designer is an okay term to describe emergent knowledge creators. However, both the action and the origin of the designer must be attributed to conjecture-refutation based processes.</text></g><g id="elem_knowledge_is_created_by_conjecture_and_refutation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="587" x="157.5" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="361" x="270.5" y="151.9952">knowledge_is_created_by_conjecture_and_refutation</text><line style="stroke:#181818;stroke-width:0.5;" x1="158.5" x2="743.5" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="575" x="163.5" y="174.4834">Knowledge is made by coming up with an idea, and challenging it to see if it is right.</text><line style="stroke:#181818;stroke-width:0.5;" x1="158.5" x2="743.5" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="348" x="163.5" y="198.9717">Knowledge is created by conjecture and refutation.</text></g><g id="elem_the_problem_with_designer_theory"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="707" x="779.5" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="1012.5" y="151.9952">the_problem_with_designer_theory</text><line style="stroke:#181818;stroke-width:0.5;" x1="780.5" x2="1485.5" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="695" x="785.5" y="174.4834">Things being "made by a designer" is not good explanation. Any designer must itself have a designer.</text><line style="stroke:#181818;stroke-width:0.5;" x1="780.5" x2="1485.5" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="658" x="785.5" y="198.9717">Explanations that invoke a designer fail to provide an explanation for the origin of the designer.</text></g><g id="elem_knowledge"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="888" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="413.5" y="22.5352">knowledge</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="894" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="475" x="13" y="45.0234">Something that can point itself at something and physically change it.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="894" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="876" x="13" y="69.5117">Knowledge is something that if it points itself at a suitable destination, it has a transformative effect in reality at that destination.</text></g><!--MD5=[d4053dd6b78f7e4c54b4c4d9bc8c94fc]
+reverse link knowledge_is_created_by_conjecture_and_refutation to systems_can_be_designed_at_high_levels_not_low_levels--><g id="link_knowledge_is_created_by_conjecture_and_refutation_systems_can_be_designed_at_high_levels_not_low_levels"><path codeLine="7" d="M547.88,208.41 C595.86,226.34 653.46,247.87 700.66,265.52 " fill="none" id="knowledge_is_created_by_conjecture_and_refutation-backto-systems_can_be_designed_at_high_levels_not_low_levels" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="543.38,206.35,550.4025,213.2554,548.0616,208.1056,553.2115,205.7648,543.38,206.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e67e8dba219467680eb03c229996edee]
+reverse link the_problem_with_designer_theory to systems_can_be_designed_at_high_levels_not_low_levels--><g id="link_the_problem_with_designer_theory_systems_can_be_designed_at_high_levels_not_low_levels"><path codeLine="8" d="M1036.12,208.41 C988.14,226.34 930.54,247.87 883.34,265.52 " fill="none" id="the_problem_with_designer_theory-backto-systems_can_be_designed_at_high_levels_not_low_levels" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1040.62,206.35,1030.7885,205.7648,1035.9384,208.1056,1033.5975,213.2554,1040.62,206.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f347ec42cd57a97ec2cd4a5d5fe9d735]
+reverse link knowledge to knowledge_is_created_by_conjecture_and_refutation--><g id="link_knowledge_knowledge_is_created_by_conjecture_and_refutation"><path codeLine="15" d="M451,82.63 C451,99.88 451,119.87 451,136.38 " fill="none" id="knowledge-backto-knowledge_is_created_by_conjecture_and_refutation" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="451,77.89,447,86.89,451,82.89,455,86.89,451,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[49a3779a3c9f13dfe1007af4648fc469]
+@startuml bolq_diagram_systems_can_be_designed_at_high_levels_not_low_levels
+
+object systems_can_be_designed_at_high_levels_not_low_levels {
+A designer can be an okay explanation for something if there is a good explanation for how the designer arose from a knowledge-creating process.
+____
+A designer is an okay term to describe emergent knowledge creators. However, both the action and the origin of the designer must be attributed to conjecture-refutation based processes.
+}
+knowledge_is_created_by_conjecture_and_refutation <- - systems_can_be_designed_at_high_levels_not_low_levels
+the_problem_with_designer_theory <- - systems_can_be_designed_at_high_levels_not_low_levels
+
+object knowledge_is_created_by_conjecture_and_refutation {
+Knowledge is made by coming up with an idea, and challenging it to see if it is right.
+____
+Knowledge is created by conjecture and refutation.
+}
+knowledge <- - knowledge_is_created_by_conjecture_and_refutation
+
+object the_problem_with_designer_theory {
+Things being "made by a designer" is not good explanation. Any designer must itself have a designer.
+____
+Explanations that invoke a designer fail to provide an explanation for the origin of the designer.
+}
+
+object knowledge {
+Something that can point itself at something and physically change it.
+____
+Knowledge is something that if it points itself at a suitable destination, it has a transformative effect in reality at that destination.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

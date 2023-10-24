@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="471px" preserveAspectRatio="none" style="width:2179px;height:471px;background:#FFFFFF;" version="1.1" viewBox="0 0 2179 471" width="2179px" zoomAndPan="magnify"><defs/><g><g id="elem_all_universal_computers_are_digital_computers"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="882" x="386" y="395.4"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="324" x="665" y="410.9352">all_universal_computers_are_digital_computers</text><line style="stroke:#181818;stroke-width:0.5;" x1="387" x2="1267" y1="415.8883" y2="415.8883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="870" x="392" y="433.4234">There are no universal computers that are built from parts that have ranges of values. They must all have definite on-off states.</text><line style="stroke:#181818;stroke-width:0.5;" x1="387" x2="1267" y1="440.3766" y2="440.3766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="785" x="392" y="457.9117">Universal turing machines cannot have continuous computational elements, they must be discrete (such as binary).</text></g><g id="elem_error_correction_is_required_in_computers"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="817" x="418.5" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="679" y="281.4652">error_correction_is_required_in_computers</text><line style="stroke:#181818;stroke-width:0.5;" x1="419.5" x2="1234.5" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="805" x="424.5" y="303.9534">Computers need to check that the parts they are running on do not malfunction and alter the values being processed.</text><line style="stroke:#181818;stroke-width:0.5;" x1="419.5" x2="1234.5" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="349" x="424.5" y="328.4417">Universal turing machines require error correction.</text></g><g id="elem_computers_are_universal"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="546" x="554" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="741.5" y="152.0052">computers_are_universal</text><line style="stroke:#181818;stroke-width:0.5;" x1="555" x2="1099" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="534" x="560" y="174.4934">Computers can represent any physical thing, even physical things like biology.</text><line style="stroke:#181818;stroke-width:0.5;" x1="555" x2="1099" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="305" x="560" y="198.9817">Computers have the property of universality.</text></g><g id="elem_universality_is_about_doing_anything_and_everything"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="540" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="369" x="92.5" y="22.5352">universality_is_about_doing_anything_and_everything</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="546" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="420" x="13" y="45.0234">Systems that can be used to represent anything are universal.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="546" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="528" x="13" y="69.5117">A system is universal if it contains enough expressivity to represent anything.</text></g><g id="elem_the_universality_of_quantum_computation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1591" x="581.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="291" x="1231.5" y="22.5352">the_universality_of_quantum_computation</text><line style="stroke:#181818;stroke-width:0.5;" x1="582.5" x2="2171.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="575" x="587.5" y="45.0234">There is a proof what shows that the laws of the universe can be run on a computer.</text><line style="stroke:#181818;stroke-width:0.5;" x1="582.5" x2="2171.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1579" x="587.5" y="69.5117">The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.</text></g><!--MD5=[d87486f0b7a1ee4d56cfd59a753f24ca]
+reverse link error_correction_is_required_in_computers to all_universal_computers_are_digital_computers--><g id="link_error_correction_is_required_in_computers_all_universal_computers_are_digital_computers"><path codeLine="7" d="M827,341.56 C827,358.82 827,378.8 827,395.32 " fill="none" id="error_correction_is_required_in_computers-backto-all_universal_computers_are_digital_computers" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="827,336.82,823,345.82,827,341.82,831,345.82,827,336.82" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2ec5b141029ac8b2c96c165e795802c7]
+reverse link computers_are_universal to error_correction_is_required_in_computers--><g id="link_computers_are_universal_error_correction_is_required_in_computers"><path codeLine="14" d="M827,212.1 C827,229.35 827,249.34 827,265.85 " fill="none" id="computers_are_universal-backto-error_correction_is_required_in_computers" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="827,207.36,823,216.36,827,212.36,831,216.36,827,207.36" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a2963dc2e6947ed89bc6d1579359dc21]
+reverse link universality_is_about_doing_anything_and_everything to computers_are_universal--><g id="link_universality_is_about_doing_anything_and_everything_computers_are_universal"><path codeLine="21" d="M429.98,78.19 C508.01,96.27 602.47,118.16 679.68,136.06 " fill="none" id="universality_is_about_doing_anything_and_everything-backto-computers_are_universal" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="425.39,76.89,433.255,82.818,430.261,78.0185,435.0606,75.0245,425.39,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9b9534914d681b14a75766eeb35a424b]
+reverse link the_universality_of_quantum_computation to computers_are_universal--><g id="link_the_universality_of_quantum_computation_computers_are_universal"><path codeLine="22" d="M1224.02,78.19 C1145.99,96.27 1051.53,118.16 974.32,136.06 " fill="none" id="the_universality_of_quantum_computation-backto-computers_are_universal" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1228.61,76.89,1218.9394,75.0245,1223.739,78.0185,1220.745,82.818,1228.61,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c32106c37ed5c980a0b7c35f349e0e68]
+@startuml bolq_diagram_all_universal_computers_are_digital_computers
+
+object all_universal_computers_are_digital_computers {
+There are no universal computers that are built from parts that have ranges of values. They must all have definite on-off states.
+____
+Universal turing machines cannot have continuous computational elements, they must be discrete (such as binary).
+}
+error_correction_is_required_in_computers <- - all_universal_computers_are_digital_computers
+
+object error_correction_is_required_in_computers {
+Computers need to check that the parts they are running on do not malfunction and alter the values being processed.
+____
+Universal turing machines require error correction.
+}
+computers_are_universal <- - error_correction_is_required_in_computers
+
+object computers_are_universal {
+Computers can represent any physical thing, even physical things like biology.
+____
+Computers have the property of universality.
+}
+universality_is_about_doing_anything_and_everything <- - computers_are_universal
+the_universality_of_quantum_computation <- - computers_are_universal
+
+object universality_is_about_doing_anything_and_everything {
+Systems that can be used to represent anything are universal.
+____
+A system is universal if it contains enough expressivity to represent anything.
+}
+
+object the_universality_of_quantum_computation {
+There is a proof what shows that the laws of the universe can be run on a computer.
+____
+The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

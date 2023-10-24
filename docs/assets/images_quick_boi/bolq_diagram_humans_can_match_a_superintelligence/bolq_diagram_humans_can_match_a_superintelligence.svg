@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="342px" preserveAspectRatio="none" style="width:1953px;height:342px;background:#FFFFFF;" version="1.1" viewBox="0 0 1953 342" width="1953px" zoomAndPan="magnify"><defs/><g><g id="elem_humans_can_match_a_superintelligence"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1235" x="678" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="275" x="1158" y="281.4652">humans_can_match_a_superintelligence</text><line style="stroke:#181818;stroke-width:0.5;" x1="679" x2="1912" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="530" x="684" y="303.9534">There cannot be a superintelligence that does things we cannot comprehend.</text><line style="stroke:#181818;stroke-width:0.5;" x1="679" x2="1912" y1="310.9066" y2="310.9066"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1223" x="684" y="328.4417">A superintelligence is merely a quantitative improvement over humans, not a qualitative one. We can eventually match any theoretical superintelligence, given the right knowledge.</text></g><g id="elem_everything_in_the_universe_is_comprehensible"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="833" x="879" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="321" x="1135" y="151.9952">everything_in_the_universe_is_comprehensible</text><line style="stroke:#181818;stroke-width:0.5;" x1="880" x2="1711" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="821" x="885" y="174.4834">Humans can understand everything because we can program quantum computers, which can technically run everything.</text><line style="stroke:#181818;stroke-width:0.5;" x1="880" x2="1711" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="793" x="885" y="198.9717">Quantum computers have universal computation, and with them we can program any possible thing in the universe.</text></g><g id="elem_the_universality_of_quantum_computation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1591" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="291" x="657" y="22.5352">the_universality_of_quantum_computation</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1597" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="575" x="13" y="45.0234">There is a proof what shows that the laws of the universe can be run on a computer.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1597" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1579" x="13" y="69.5117">The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.</text></g><g id="elem_to_code_is_to_comprehend"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="314" x="1632.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="1696" y="22.5352">to_code_is_to_comprehend</text><line style="stroke:#181818;stroke-width:0.5;" x1="1633.5" x2="1945.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="302" x="1638.5" y="45.0234">A programmer understands what they code.</text><line style="stroke:#181818;stroke-width:0.5;" x1="1633.5" x2="1945.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="1638.5" y="69.5117">Coding is comprehension.</text></g><!--MD5=[452369de6fd6577318da929ac712c3c8]
+reverse link everything_in_the_universe_is_comprehensible to humans_can_match_a_superintelligence--><g id="link_everything_in_the_universe_is_comprehensible_humans_can_match_a_superintelligence"><path codeLine="7" d="M1295.5,212.09 C1295.5,229.35 1295.5,249.33 1295.5,265.85 " fill="none" id="everything_in_the_universe_is_comprehensible-backto-humans_can_match_a_superintelligence" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1295.5,207.35,1291.5,216.35,1295.5,212.35,1299.5,216.35,1295.5,207.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8f1ebd161f95fd65d6bc7f8ae87d615c]
+reverse link the_universality_of_quantum_computation to everything_in_the_universe_is_comprehensible--><g id="link_the_universality_of_quantum_computation_everything_in_the_universe_is_comprehensible"><path codeLine="14" d="M940.04,78.29 C1009.9,96.35 1094.38,118.19 1163.45,136.05 " fill="none" id="the_universality_of_quantum_computation-backto-everything_in_the_universe_is_comprehensible" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="935.61,76.89,943.3332,83.0017,940.4531,78.1329,945.3218,75.2528,935.61,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3580b4b27a7233cac7b912004a28c3e6]
+reverse link to_code_is_to_comprehend to everything_in_the_universe_is_comprehensible--><g id="link_to_code_is_to_comprehend_everything_in_the_universe_is_comprehensible"><path codeLine="15" d="M1651.68,78.29 C1581.68,96.35 1497.03,118.19 1427.82,136.05 " fill="none" id="to_code_is_to_comprehend-backto-everything_in_the_universe_is_comprehensible" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1656.12,76.89,1646.4082,75.2528,1651.2769,78.1329,1648.3968,83.0017,1656.12,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4d6e937ea55c13d3e00b9b1c8f52d304]
+@startuml bolq_diagram_humans_can_match_a_superintelligence
+
+object humans_can_match_a_superintelligence {
+There cannot be a superintelligence that does things we cannot comprehend.
+____
+A superintelligence is merely a quantitative improvement over humans, not a qualitative one. We can eventually match any theoretical superintelligence, given the right knowledge.
+}
+everything_in_the_universe_is_comprehensible <- - humans_can_match_a_superintelligence
+
+object everything_in_the_universe_is_comprehensible {
+Humans can understand everything because we can program quantum computers, which can technically run everything.
+____
+Quantum computers have universal computation, and with them we can program any possible thing in the universe.
+}
+the_universality_of_quantum_computation <- - everything_in_the_universe_is_comprehensible
+to_code_is_to_comprehend <- - everything_in_the_universe_is_comprehensible
+
+object the_universality_of_quantum_computation {
+There is a proof what shows that the laws of the universe can be run on a computer.
+____
+The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.
+}
+
+object to_code_is_to_comprehend {
+A programmer understands what they code.
+____
+Coding is comprehension.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>
