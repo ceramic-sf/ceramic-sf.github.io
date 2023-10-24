@@ -1,0 +1,10 @@
+/** Additions here will override ./_site/assets_main.css */
+@import "minima";
+
+/** Modifications to code formatting to stop horizontal scrolling */
+pre, code {
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+
+
