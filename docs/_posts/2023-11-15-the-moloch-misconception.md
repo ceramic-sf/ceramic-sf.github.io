@@ -23,7 +23,7 @@ I argue that the Moloch framework has some problems.
 
 This is just an overview.
 
-See [a dissection of Moloch](/2023/10/24/quick-boi.html/#a-dissection-of-moloch---ceramic-exploration)
+See [a dissection of Moloch](/2023/10/24/quick-boi.html#a-dissection-of-moloch---ceramic-exploration)
 for a more detailed look. This has been added as an extension to the exploration of the Beginning
 of Infinity because it builds on some ideas there.
 
