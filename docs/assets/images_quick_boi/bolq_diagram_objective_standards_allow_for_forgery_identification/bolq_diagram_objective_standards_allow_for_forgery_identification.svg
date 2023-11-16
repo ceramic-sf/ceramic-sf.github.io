@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:725px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 725 212" width="725px" zoomAndPan="magnify"><defs/><g><g id="elem_objective_standards_allow_for_forgery_identification"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="669" x="28" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="360" x="182.5" y="152.0052">objective_standards_allow_for_forgery_identification</text><line style="stroke:#181818;stroke-width:0.5;" x1="29" x2="696" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="657" x="34" y="174.4934">If there is some clear criteria for something, it is easier to detect a copycat that is not quite right.</text><line style="stroke:#181818;stroke-width:0.5;" x1="29" x2="696" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="473" x="34" y="198.9817">Objective goals allow for reliable identification of imperfect imitation.</text></g><g id="elem_flowers_and_flower_finding_skills_are_hard_to_forge"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="711" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="363" x="181" y="22.5352">flowers_and_flower_finding_skills_are_hard_to_forge</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="717" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="699" x="13" y="45.0234">To avoid forgery, both flowers and pollinators need to avoid imitations that lack the reward they need.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="717" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="450" x="13" y="69.5117">Flowers and pollinators both benefit if forgery is obvious to them.</text></g><!--MD5=[3313b82b320e8d2b2a813cbaeb462f6b]
+reverse link flowers_and_flower_finding_skills_are_hard_to_forge to objective_standards_allow_for_forgery_identification--><g id="link_flowers_and_flower_finding_skills_are_hard_to_forge_objective_standards_allow_for_forgery_identification"><path codeLine="7" d="M362.5,82.63 C362.5,99.89 362.5,119.87 362.5,136.39 " fill="none" id="flowers_and_flower_finding_skills_are_hard_to_forge-backto-objective_standards_allow_for_forgery_identification" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="362.5,77.89,358.5,86.89,362.5,82.89,366.5,86.89,362.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[119d2ffffd13f6947a2c856fafe41141]
+@startuml bolq_diagram_objective_standards_allow_for_forgery_identification
+
+object objective_standards_allow_for_forgery_identification {
+If there is some clear criteria for something, it is easier to detect a copycat that is not quite right.
+____
+Objective goals allow for reliable identification of imperfect imitation.
+}
+flowers_and_flower_finding_skills_are_hard_to_forge <- - objective_standards_allow_for_forgery_identification
+
+object flowers_and_flower_finding_skills_are_hard_to_forge {
+To avoid forgery, both flowers and pollinators need to avoid imitations that lack the reward they need.
+____
+Flowers and pollinators both benefit if forgery is obvious to them.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

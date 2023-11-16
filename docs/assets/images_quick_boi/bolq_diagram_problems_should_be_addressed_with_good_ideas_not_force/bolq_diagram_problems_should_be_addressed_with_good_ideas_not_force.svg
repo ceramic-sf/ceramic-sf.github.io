@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1099px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1099 212" width="1099px" zoomAndPan="magnify"><defs/><g><g id="elem_problems_should_be_addressed_with_good_ideas_not_force"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="514" x="292.5" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="415" x="342" y="152.0052">problems_should_be_addressed_with_good_ideas_not_force</text><line style="stroke:#181818;stroke-width:0.5;" x1="293.5" x2="805.5" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="502" x="298.5" y="174.4934">If powerful people have bad ideas, combat this with good ideas not force.</text><line style="stroke:#181818;stroke-width:0.5;" x1="293.5" x2="805.5" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="381" x="298.5" y="198.9817">Bad ideas are better addressed by good ideas not force.</text></g><g id="elem_technology_causes_inequality_and_that_is_ok"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1085" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="312" x="393.5" y="22.5352">technology_causes_inequality_and_that_is_ok</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1091" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1020" x="13" y="45.0234">The enormous positive impact of widespread technology should be celebrated, whereas the wealth and power of the creators is much less important.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1091" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1073" x="13" y="69.5117">Ubiquitous technologies create value for so many people and this outweighs the harms of concentrated wealth and power in the inventors of the technology.</text></g><!--MD5=[b242675a661b6428e9658937e496ee7f]
+reverse link technology_causes_inequality_and_that_is_ok to problems_should_be_addressed_with_good_ideas_not_force--><g id="link_technology_causes_inequality_and_that_is_ok_problems_should_be_addressed_with_good_ideas_not_force"><path codeLine="7" d="M549.5,82.63 C549.5,99.89 549.5,119.87 549.5,136.39 " fill="none" id="technology_causes_inequality_and_that_is_ok-backto-problems_should_be_addressed_with_good_ideas_not_force" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="549.5,77.89,545.5,86.89,549.5,82.89,553.5,86.89,549.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b4e87b8aae376f9eec8d8daca7492dcb]
+@startuml bolq_diagram_problems_should_be_addressed_with_good_ideas_not_force
+
+object problems_should_be_addressed_with_good_ideas_not_force {
+If powerful people have bad ideas, combat this with good ideas not force.
+____
+Bad ideas are better addressed by good ideas not force.
+}
+technology_causes_inequality_and_that_is_ok <- - problems_should_be_addressed_with_good_ideas_not_force
+
+object technology_causes_inequality_and_that_is_ok {
+The enormous positive impact of widespread technology should be celebrated, whereas the wealth and power of the creators is much less important.
+____
+Ubiquitous technologies create value for so many people and this outweighs the harms of concentrated wealth and power in the inventors of the technology.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

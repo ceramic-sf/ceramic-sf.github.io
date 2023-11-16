@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1252px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1252 212" width="1252px" zoomAndPan="magnify"><defs/><g><g id="elem_the_problem_with_bayesianism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="617" x="317.5" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="519" y="152.0052">the_problem_with_bayesianism</text><line style="stroke:#181818;stroke-width:0.5;" x1="318.5" x2="933.5" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="605" x="323.5" y="174.4934">Bayes' theorem cannot create new theories because it uses the past to predict the future.</text><line style="stroke:#181818;stroke-width:0.5;" x1="318.5" x2="933.5" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="393" x="323.5" y="198.9817">Bayesianism is refuted because it is a form of inductivism.</text></g><g id="elem_the_problem_with_induction"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1238" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="195" x="528.5" y="22.5352">the_problem_with_induction</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1244" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1226" x="13" y="45.0234">You cannot make theories by looking at things and extrapolating. Firstly because you may not be seeing the whole picture, second because the future is different from the present.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1244" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1182" x="13" y="69.5117">Inductivism states that repeated observations allow us to create theories. It is refuted in two ways: The unseen represents the seen; The future does not look like the present.</text></g><!--MD5=[3d63520ce265f6a5a1dad4559c5570e6]
+reverse link the_problem_with_induction to the_problem_with_bayesianism--><g id="link_the_problem_with_induction_the_problem_with_bayesianism"><path codeLine="7" d="M626,82.63 C626,99.89 626,119.87 626,136.39 " fill="none" id="the_problem_with_induction-backto-the_problem_with_bayesianism" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="626,77.89,622,86.89,626,82.89,630,86.89,626,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[61dbd1a58919e39df55960043c341cf5]
+@startuml bolq_diagram_the_problem_with_bayesianism
+
+object the_problem_with_bayesianism {
+Bayes' theorem cannot create new theories because it uses the past to predict the future.
+____
+Bayesianism is refuted because it is a form of inductivism.
+}
+the_problem_with_induction <- - the_problem_with_bayesianism
+
+object the_problem_with_induction {
+You cannot make theories by looking at things and extrapolating. Firstly because you may not be seeing the whole picture, second because the future is different from the present.
+____
+Inductivism states that repeated observations allow us to create theories. It is refuted in two ways: The unseen represents the seen; The future does not look like the present.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

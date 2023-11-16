@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="245px" preserveAspectRatio="none" style="width:1190px;height:245px;background:#FFFFFF;" version="1.1" viewBox="0 0 1190 245" width="1190px" zoomAndPan="magnify"><defs/><g><g id="elem_there_is_no_moloch_behind_arms_races"><rect fill="#F1F1F1" height="102.4414" style="stroke:#181818;stroke-width:0.5;" width="674" x="226.5" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="276" x="425.5" y="152.0052">there_is_no_moloch_behind_arms_races</text><line style="stroke:#181818;stroke-width:0.5;" x1="227.5" x2="899.5" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="662" x="232.5" y="174.4934">Two countries that never fight but dedicate money to weapons accidentally invent things that are</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="232.5" y="190.9817">useful throughout society.</text><line style="stroke:#181818;stroke-width:0.5;" x1="227.5" x2="899.5" y1="197.9348" y2="197.9348"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="646" x="232.5" y="215.47">The creation new knowledge is not containable to a single domain. All serious research efforts</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="377" x="232.5" y="231.9583">produce knowledge that can solve unrelated problems.</text></g><g id="elem_reach_of_explanations"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="507" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="183" y="22.5352">reach_of_explanations</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="513" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="13" y="45.0234">Ideas have impact on the real world</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="513" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="495" x="13" y="69.5117">Explanations have effects on multiple areas beyond the original context.</text></g><g id="elem_the_problem_with_static_societies"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="634" x="549.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="750.5" y="22.5352">the_problem_with_static_societies</text><line style="stroke:#181818;stroke-width:0.5;" x1="550.5" x2="1182.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="622" x="555.5" y="45.0234">Static societies prevent new ideas by having systems to prevent people from being creative.</text><line style="stroke:#181818;stroke-width:0.5;" x1="550.5" x2="1182.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="393" x="555.5" y="69.5117">Static societies disable the ability of people to be creative.</text></g><!--MD5=[4d6f38bcec8c9632b70162d93de3b119]
+reverse link reach_of_explanations to there_is_no_moloch_behind_arms_races--><g id="link_reach_of_explanations_there_is_no_moloch_behind_arms_races"><path codeLine="9" d="M337.59,79.36 C373.81,96.57 417.57,117.36 456.9,136.04 " fill="none" id="reach_of_explanations-backto-there_is_no_moloch_behind_arms_races" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="333.31,76.85,339.7252,84.323,337.8269,78.9941,343.1558,77.0959,333.31,76.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1b136371342868af0a35b1654be846a9]
+reverse link the_problem_with_static_societies to there_is_no_moloch_behind_arms_races--><g id="link_the_problem_with_static_societies_there_is_no_moloch_behind_arms_races"><path codeLine="10" d="M789.41,79.36 C753.19,96.57 709.43,117.36 670.1,136.04 " fill="none" id="the_problem_with_static_societies-backto-there_is_no_moloch_behind_arms_races" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="793.69,76.85,783.8442,77.0959,789.1731,78.9941,787.2748,84.323,793.69,76.85" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[05764dabbc2d20c8597ac03b010d1a8f]
+@startuml bolq_diagram_there_is_no_moloch_behind_arms_races
+
+object there_is_no_moloch_behind_arms_races {
+Two countries that never fight but dedicate money to weapons accidentally invent things that are
+useful throughout society.
+____
+The creation new knowledge is not containable to a single domain. All serious research efforts
+produce knowledge that can solve unrelated problems.
+}
+reach_of_explanations <- - there_is_no_moloch_behind_arms_races
+the_problem_with_static_societies <- - there_is_no_moloch_behind_arms_races
+
+object reach_of_explanations {
+Ideas have impact on the real world
+____
+Explanations have effects on multiple areas beyond the original context.
+}
+
+object the_problem_with_static_societies {
+Static societies prevent new ideas by having systems to prevent people from being creative.
+____
+Static societies disable the ability of people to be creative.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="229px" preserveAspectRatio="none" style="width:664px;height:229px;background:#FFFFFF;" version="1.1" viewBox="0 0 664 229" width="664px" zoomAndPan="magnify"><defs/><g><g id="elem_the_idea_of_moloch_is_not_a_harmless_framework"><rect fill="#F1F1F1" height="85.9531" style="stroke:#181818;stroke-width:0.5;" width="650" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="350" x="157" y="152.0052">the_idea_of_moloch_is_not_a_harmless_framework</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="656" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="615" x="13" y="174.4934">The belief that coordination failure is fundamental can cause misdirection and pessimism.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="656" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="638" x="13" y="198.9817">Moloch is a bad theory. Theories that include Moloch are likely to deviate from reality and will</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="259" x="13" y="215.47">not be as useful for solving problems.</text></g><g id="elem_creativity_requires_optimism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="403" x="130.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="234" y="22.5352">creativity_requires_optimism</text><line style="stroke:#181818;stroke-width:0.5;" x1="131.5" x2="532.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="391" x="136.5" y="45.0234">If you are pessimistic, you are very unlikely to be creative.</text><line style="stroke:#181818;stroke-width:0.5;" x1="131.5" x2="532.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="325" x="136.5" y="69.5117">Optimism is often a precursor to new creations.</text></g><!--MD5=[30cc82140832e2d0e8f50297b8695833]
+reverse link creativity_requires_optimism to the_idea_of_moloch_is_not_a_harmless_framework--><g id="link_creativity_requires_optimism_the_idea_of_moloch_is_not_a_harmless_framework"><path codeLine="8" d="M332,82.23 C332,99.1 332,118.81 332,135.99 " fill="none" id="creativity_requires_optimism-backto-the_idea_of_moloch_is_not_a_harmless_framework" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="332,77.63,328,86.63,332,82.63,336,86.63,332,77.63" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b80108cb2ff6d55ed5895e872d52d39b]
+@startuml bolq_diagram_the_idea_of_moloch_is_not_a_harmless_framework
+
+object the_idea_of_moloch_is_not_a_harmless_framework {
+The belief that coordination failure is fundamental can cause misdirection and pessimism.
+____
+Moloch is a bad theory. Theories that include Moloch are likely to deviate from reality and will
+not be as useful for solving problems.
+}
+creativity_requires_optimism <- - the_idea_of_moloch_is_not_a_harmless_framework
+
+object creativity_requires_optimism {
+If you are pessimistic, you are very unlikely to be creative.
+____
+Optimism is often a precursor to new creations.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

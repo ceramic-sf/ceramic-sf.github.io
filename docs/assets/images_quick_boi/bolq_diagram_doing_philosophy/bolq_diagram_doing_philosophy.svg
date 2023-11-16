@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:711px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 711 212" width="711px" zoomAndPan="magnify"><defs/><g><g id="elem_doing_philosophy"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="424" x="143.5" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="294" y="152.0052">doing_philosophy</text><line style="stroke:#181818;stroke-width:0.5;" x1="144.5" x2="566.5" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="412" x="149.5" y="174.4934">Doing philosophy is being aware of what you think and why.</text><line style="stroke:#181818;stroke-width:0.5;" x1="144.5" x2="566.5" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="149.5" y="198.9817">TODO.</text></g><g id="elem_the_problem_with_choosing_science_and_rejecting_philosophy"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="697" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="433" x="139" y="22.5352">the_problem_with_choosing_science_and_rejecting_philosophy</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="703" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="685" x="13" y="45.0234">Philosophy is a topic that cannot be avoided. Any decision to not use philosophy is itself philosophy.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="703" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="336" x="13" y="69.5117">The rejection of philosophy is itself a philosophy.</text></g><!--MD5=[966375e27288b48c3a2a0380d69246f0]
+reverse link the_problem_with_choosing_science_and_rejecting_philosophy to doing_philosophy--><g id="link_the_problem_with_choosing_science_and_rejecting_philosophy_doing_philosophy"><path codeLine="7" d="M355.5,82.63 C355.5,99.89 355.5,119.87 355.5,136.39 " fill="none" id="the_problem_with_choosing_science_and_rejecting_philosophy-backto-doing_philosophy" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="355.5,77.89,351.5,86.89,355.5,82.89,359.5,86.89,355.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c3944d0945f88a4d5380c460388dc560]
+@startuml bolq_diagram_doing_philosophy
+
+object doing_philosophy {
+Doing philosophy is being aware of what you think and why.
+____
+TODO.
+}
+the_problem_with_choosing_science_and_rejecting_philosophy <- - doing_philosophy
+
+object the_problem_with_choosing_science_and_rejecting_philosophy {
+Philosophy is a topic that cannot be avoided. Any decision to not use philosophy is itself philosophy.
+____
+The rejection of philosophy is itself a philosophy.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

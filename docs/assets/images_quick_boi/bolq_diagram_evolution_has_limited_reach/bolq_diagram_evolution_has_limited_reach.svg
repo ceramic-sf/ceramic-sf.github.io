@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1209px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1209 212" width="1209px" zoomAndPan="magnify"><defs/><g><g id="elem_evolution_has_limited_reach"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1195" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="507.5" y="152.0052">evolution_has_limited_reach</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1201" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1183" x="13" y="174.4934">The knowledge that evolution makes comes from random errors leading to accidental improvements. People can be more careful and can create ideas for a specific purpose.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1201" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1021" x="13" y="198.9817">Evolution creates knowledge blindly, which limits the ability for it to solve specific problems. People can intentionally focus on creating relevant ideas.</text></g><g id="elem_reach_of_explanations"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="507" x="351" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="527" y="22.5352">reach_of_explanations</text><line style="stroke:#181818;stroke-width:0.5;" x1="352" x2="857" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="357" y="45.0234">Ideas have impact on the real world</text><line style="stroke:#181818;stroke-width:0.5;" x1="352" x2="857" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="495" x="357" y="69.5117">Explanations have effects on multiple areas beyond the original context.</text></g><!--MD5=[2a9f1c79901c670c50234fa4e3890ed6]
+reverse link reach_of_explanations to evolution_has_limited_reach--><g id="link_reach_of_explanations_evolution_has_limited_reach"><path codeLine="7" d="M604.5,82.63 C604.5,99.89 604.5,119.87 604.5,136.39 " fill="none" id="reach_of_explanations-backto-evolution_has_limited_reach" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="604.5,77.89,600.5,86.89,604.5,82.89,608.5,86.89,604.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[868e41c1726088946d66eae60bce0c73]
+@startuml bolq_diagram_evolution_has_limited_reach
+
+object evolution_has_limited_reach {
+The knowledge that evolution makes comes from random errors leading to accidental improvements. People can be more careful and can create ideas for a specific purpose.
+____
+Evolution creates knowledge blindly, which limits the ability for it to solve specific problems. People can intentionally focus on creating relevant ideas.
+}
+reach_of_explanations <- - evolution_has_limited_reach
+
+object reach_of_explanations {
+Ideas have impact on the real world
+____
+Explanations have effects on multiple areas beyond the original context.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

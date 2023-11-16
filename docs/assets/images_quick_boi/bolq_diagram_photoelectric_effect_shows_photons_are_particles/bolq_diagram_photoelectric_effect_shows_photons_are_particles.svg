@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="229px" preserveAspectRatio="none" style="width:1097px;height:229px;background:#FFFFFF;" version="1.1" viewBox="0 0 1097 229" width="1097px" zoomAndPan="magnify"><defs/><g><g id="elem_photoelectric_effect_shows_photons_are_particles"><rect fill="#F1F1F1" height="85.9531" style="stroke:#181818;stroke-width:0.5;" width="1083" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="343" x="377" y="152.0052">photoelectric_effect_shows_photons_are_particles</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1089" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="730" x="13" y="174.4934">Photons interact individually as particles, not as a sum-of-all-parts like waves do. This can be shown when</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="565" x="13" y="190.9817">many low energy photons cannot something that a single high energy photon can.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1089" y1="197.9348" y2="197.9348"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1071" x="13" y="215.47">The photoelectric effect shows energy threshold quantisation not energy summation. It demonstrates that photons are particles and refutes the wave model.</text></g><g id="elem_things_cannot_be_waves_and_particles"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="701" x="198" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="267" x="415" y="22.5352">things_cannot_be_waves_and_particles</text><line style="stroke:#181818;stroke-width:0.5;" x1="199" x2="898" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="379" x="204" y="45.0234">Photons are not particles and waves. They are particles.</text><line style="stroke:#181818;stroke-width:0.5;" x1="199" x2="898" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="689" x="204" y="69.5117">The wave particle duality is a logical inconsistency because it violates the law of the excluded middle.</text></g><!--MD5=[5d3438ed0f7a136c9b812cfb44a1c65d]
+reverse link things_cannot_be_waves_and_particles to photoelectric_effect_shows_photons_are_particles--><g id="link_things_cannot_be_waves_and_particles_photoelectric_effect_shows_photons_are_particles"><path codeLine="8" d="M548.5,82.23 C548.5,99.1 548.5,118.81 548.5,135.99 " fill="none" id="things_cannot_be_waves_and_particles-backto-photoelectric_effect_shows_photons_are_particles" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="548.5,77.63,544.5,86.63,548.5,82.63,552.5,86.63,548.5,77.63" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[21aad882015b4ec0fbebe83bfb7f210c]
+@startuml bolq_diagram_photoelectric_effect_shows_photons_are_particles
+
+object photoelectric_effect_shows_photons_are_particles {
+Photons interact individually as particles, not as a sum-of-all-parts like waves do. This can be shown when
+many low energy photons cannot something that a single high energy photon can.
+____
+The photoelectric effect shows energy threshold quantisation not energy summation. It demonstrates that photons are particles and refutes the wave model.
+}
+things_cannot_be_waves_and_particles <- - photoelectric_effect_shows_photons_are_particles
+
+object things_cannot_be_waves_and_particles {
+Photons are not particles and waves. They are particles.
+____
+The wave particle duality is a logical inconsistency because it violates the law of the excluded middle.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

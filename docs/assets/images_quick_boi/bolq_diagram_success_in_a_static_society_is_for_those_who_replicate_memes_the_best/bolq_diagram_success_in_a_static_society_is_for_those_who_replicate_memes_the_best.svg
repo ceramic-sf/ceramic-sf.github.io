@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1276px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1276 212" width="1276px" zoomAndPan="magnify"><defs/><g><g id="elem_success_in_a_static_society_is_for_those_who_replicate_memes_the_best"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1262" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="497" x="389.5" y="152.0052">success_in_a_static_society_is_for_those_who_replicate_memes_the_best</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1268" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="472" x="13" y="174.4934">A primitive society would reward and select for more creative people.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1268" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1250" x="13" y="198.9817">Creativity can a survival advantage in a static society. So even societies that discourage innovation select for people with increased ability to innovate (they can replicate memes better).</text></g><g id="elem_creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="879" x="198.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="593" x="341.5" y="22.5352">creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge</text><line style="stroke:#181818;stroke-width:0.5;" x1="199.5" x2="1076.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="867" x="204.5" y="45.0234">Creativity allows us to get existing knowledge (memes around us), however a side effect is the ability to create new knowledge.</text><line style="stroke:#181818;stroke-width:0.5;" x1="199.5" x2="1076.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="664" x="204.5" y="69.5117">Creativity arose because it allowed meme replication. A by-product was creating new knowledge.</text></g><!--MD5=[090ad6bdd03b225a7b4977aaeb6cc811]
+reverse link creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge to success_in_a_static_society_is_for_those_who_replicate_memes_the_best--><g id="link_creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge_success_in_a_static_society_is_for_those_who_replicate_memes_the_best"><path codeLine="7" d="M638,82.63 C638,99.89 638,119.87 638,136.39 " fill="none" id="creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge-backto-success_in_a_static_society_is_for_those_who_replicate_memes_the_best" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="638,77.89,634,86.89,638,82.89,642,86.89,638,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[fb0ad11c48371acc840041a02295eb35]
+@startuml bolq_diagram_success_in_a_static_society_is_for_those_who_replicate_memes_the_best
+
+object success_in_a_static_society_is_for_those_who_replicate_memes_the_best {
+A primitive society would reward and select for more creative people.
+____
+Creativity can a survival advantage in a static society. So even societies that discourage innovation select for people with increased ability to innovate (they can replicate memes better).
+}
+creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge <- - success_in_a_static_society_is_for_those_who_replicate_memes_the_best
+
+object creativity_was_good_for_memes_and_enabled_a_second_benefit_to_create_knowledge {
+Creativity allows us to get existing knowledge (memes around us), however a side effect is the ability to create new knowledge.
+____
+Creativity arose because it allowed meme replication. A by-product was creating new knowledge.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

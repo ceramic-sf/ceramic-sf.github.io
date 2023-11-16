@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1384px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1384 212" width="1384px" zoomAndPan="magnify"><defs/><g><g id="elem_there_is_no_moloch_behind_the_agricultural_revolution"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1370" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="384" x="500" y="152.0052">there_is_no_moloch_behind_the_agricultural_revolution</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1376" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="702" x="13" y="174.4934">The invention of farming caused many problems. People prefer the new problems to the old problems.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1376" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1358" x="13" y="198.9817">The solution to a problem causes new problems. The solution is not a failure. New unpredictable problems will always arise and are not grounds for arguing that problems should not be solved at all.</text></g><g id="elem_the_problem_with_an_untroubled_past"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="658" x="363" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="267" x="558.5" y="22.5352">the_problem_with_an_untroubled_past</text><line style="stroke:#181818;stroke-width:0.5;" x1="364" x2="1020" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="462" x="369" y="45.0234">There is no point in the past that had better conditions for humans.</text><line style="stroke:#181818;stroke-width:0.5;" x1="364" x2="1020" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="646" x="369" y="69.5117">Romanticising the past ignores the problems that existed then, but which we have now solved.</text></g><!--MD5=[044a115b54bae82a4641a55e81588709]
+reverse link the_problem_with_an_untroubled_past to there_is_no_moloch_behind_the_agricultural_revolution--><g id="link_the_problem_with_an_untroubled_past_there_is_no_moloch_behind_the_agricultural_revolution"><path codeLine="7" d="M692,82.63 C692,99.89 692,119.87 692,136.39 " fill="none" id="the_problem_with_an_untroubled_past-backto-there_is_no_moloch_behind_the_agricultural_revolution" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="692,77.89,688,86.89,692,82.89,696,86.89,692,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f3aae0a9bf96625e3975f2504103fbdc]
+@startuml bolq_diagram_there_is_no_moloch_behind_the_agricultural_revolution
+
+object there_is_no_moloch_behind_the_agricultural_revolution {
+The invention of farming caused many problems. People prefer the new problems to the old problems.
+____
+The solution to a problem causes new problems. The solution is not a failure. New unpredictable problems will always arise and are not grounds for arguing that problems should not be solved at all.
+}
+the_problem_with_an_untroubled_past <- - there_is_no_moloch_behind_the_agricultural_revolution
+
+object the_problem_with_an_untroubled_past {
+There is no point in the past that had better conditions for humans.
+____
+Romanticising the past ignores the problems that existed then, but which we have now solved.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

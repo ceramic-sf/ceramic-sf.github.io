@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:2483px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 2483 212" width="2483px" zoomAndPan="magnify"><defs/><g><g id="elem_humans_failed_to_progress_for_thousands_of_years_due_to_static_society"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="2469" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="510" x="986.5" y="152.0052">humans_failed_to_progress_for_thousands_of_years_due_to_static_society</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="2475" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="808" x="13" y="174.4934">Human ancestors were creative but tried to perfect existing culture for social reward rather than inventing new things.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="2475" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="2457" x="13" y="198.9817">The absence of evidence for innovation in primitive human society can be explained by it being a static society. Social reward was given to those who could enact existing customs more faithfully than the norm or display exceptional obedience to existing ideas. Thus creativity was used in selection of mates and survived, but no significant innovation occurred.</text></g><g id="elem_the_problem_with_static_societies"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="634" x="924.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="1125.5" y="22.5352">the_problem_with_static_societies</text><line style="stroke:#181818;stroke-width:0.5;" x1="925.5" x2="1557.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="622" x="930.5" y="45.0234">Static societies prevent new ideas by having systems to prevent people from being creative.</text><line style="stroke:#181818;stroke-width:0.5;" x1="925.5" x2="1557.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="393" x="930.5" y="69.5117">Static societies disable the ability of people to be creative.</text></g><!--MD5=[23695547a34e92f9fe1ff7dd300b9450]
+reverse link the_problem_with_static_societies to humans_failed_to_progress_for_thousands_of_years_due_to_static_society--><g id="link_the_problem_with_static_societies_humans_failed_to_progress_for_thousands_of_years_due_to_static_society"><path codeLine="7" d="M1241.5,82.63 C1241.5,99.89 1241.5,119.87 1241.5,136.39 " fill="none" id="the_problem_with_static_societies-backto-humans_failed_to_progress_for_thousands_of_years_due_to_static_society" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1241.5,77.89,1237.5,86.89,1241.5,82.89,1245.5,86.89,1241.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[706d438641193efbbdb8851f9ac975d1]
+@startuml bolq_diagram_humans_failed_to_progress_for_thousands_of_years_due_to_static_society
+
+object humans_failed_to_progress_for_thousands_of_years_due_to_static_society {
+Human ancestors were creative but tried to perfect existing culture for social reward rather than inventing new things.
+____
+The absence of evidence for innovation in primitive human society can be explained by it being a static society. Social reward was given to those who could enact existing customs more faithfully than the norm or display exceptional obedience to existing ideas. Thus creativity was used in selection of mates and survived, but no significant innovation occurred.
+}
+the_problem_with_static_societies <- - humans_failed_to_progress_for_thousands_of_years_due_to_static_society
+
+object the_problem_with_static_societies {
+Static societies prevent new ideas by having systems to prevent people from being creative.
+____
+Static societies disable the ability of people to be creative.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

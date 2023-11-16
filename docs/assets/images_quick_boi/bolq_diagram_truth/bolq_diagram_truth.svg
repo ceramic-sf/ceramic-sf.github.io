@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1004px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1004 212" width="1004px" zoomAndPan="magnify"><defs/><g><g id="elem_truth"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="990" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="485" y="152.0052">truth</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="996" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="978" x="13" y="174.4934">A truth is a statement of something that is real. A falsity is a statement of something that is not real. Things can have some true and false parts.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="996" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="13" y="198.9817">Truth is a regularity in nature.</text></g><g id="elem_realism"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="504" x="250" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="477" y="22.5352">realism</text><line style="stroke:#181818;stroke-width:0.5;" x1="251" x2="753" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="492" x="256" y="45.0234">To believe that the world around us exists is both practical and rational.</text><line style="stroke:#181818;stroke-width:0.5;" x1="251" x2="753" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="338" x="256" y="69.5117">Realism is the acknowledgement objective reality.</text></g><!--MD5=[c651fbfa99fffad2770fdc28d7bad794]
+reverse link realism to truth--><g id="link_realism_truth"><path codeLine="7" d="M502,82.63 C502,99.89 502,119.87 502,136.39 " fill="none" id="realism-backto-truth" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="502,77.89,498,86.89,502,82.89,506,86.89,502,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[453169a937ae31038f0c1f94763a3ba1]
+@startuml bolq_diagram_truth
+
+object truth {
+A truth is a statement of something that is real. A falsity is a statement of something that is not real. Things can have some true and false parts.
+____
+Truth is a regularity in nature.
+}
+realism <- - truth
+
+object realism {
+To believe that the world around us exists is both practical and rational.
+____
+Realism is the acknowledgement objective reality.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

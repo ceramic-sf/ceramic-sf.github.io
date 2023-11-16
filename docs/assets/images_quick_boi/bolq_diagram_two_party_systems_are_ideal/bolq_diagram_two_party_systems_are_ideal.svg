@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:2089px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 2089 212" width="2089px" zoomAndPan="magnify"><defs/><g><g id="elem_two_party_systems_are_ideal"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1373" x="358" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="946" y="152.0052">two_party_systems_are_ideal</text><line style="stroke:#181818;stroke-width:0.5;" x1="359" x2="1730" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1236" x="364" y="174.4934">Two parties can iterate to find better policy over time. When they lose, they have nobody else to blame so they they can remove their bad policies easily and invent new policy openly.</text><line style="stroke:#181818;stroke-width:0.5;" x1="359" x2="1730" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1361" x="364" y="198.9817">Two party systems allow for very clear signals to the parties to improve over time. There is accountability when there are errors and clear incentives to change to become something that society wants.</text></g><g id="elem_the_problem_with_social_choice_theory"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="2075" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="271" x="909" y="22.5352">the_problem_with_social_choice_theory</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="2081" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1356" x="13" y="45.0234">There is no "will of the people". Applying maths to find the perfect formula for decision-making in society is not possible. There is no one special trick that lets all the preferences of society to be met.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="2081" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="2063" x="13" y="69.5117">Groups of humans cannot make perfectly rational choices, as illustrated by the apportionment paradox. The preferences of the group will always be inconsistent with other preferences of the group, as shown by [Arrow's theorem](#arrows-theorem-shows-that-social-decision-making-is-not-logical).</text></g><!--MD5=[215ffe917558b1baedfab22fc506149d]
+reverse link the_problem_with_social_choice_theory to two_party_systems_are_ideal--><g id="link_the_problem_with_social_choice_theory_two_party_systems_are_ideal"><path codeLine="7" d="M1044.5,82.63 C1044.5,99.89 1044.5,119.87 1044.5,136.39 " fill="none" id="the_problem_with_social_choice_theory-backto-two_party_systems_are_ideal" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1044.5,77.89,1040.5,86.89,1044.5,82.89,1048.5,86.89,1044.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a085c5afd68dc3c4491041d10b167647]
+@startuml bolq_diagram_two_party_systems_are_ideal
+
+object two_party_systems_are_ideal {
+Two parties can iterate to find better policy over time. When they lose, they have nobody else to blame so they they can remove their bad policies easily and invent new policy openly.
+____
+Two party systems allow for very clear signals to the parties to improve over time. There is accountability when there are errors and clear incentives to change to become something that society wants.
+}
+the_problem_with_social_choice_theory <- - two_party_systems_are_ideal
+
+object the_problem_with_social_choice_theory {
+There is no "will of the people". Applying maths to find the perfect formula for decision-making in society is not possible. There is no one special trick that lets all the preferences of society to be met.
+____
+Groups of humans cannot make perfectly rational choices, as illustrated by the apportionment paradox. The preferences of the group will always be inconsistent with other preferences of the group, as shown by [Arrow's theorem](#arrows-theorem-shows-that-social-decision-making-is-not-logical).
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

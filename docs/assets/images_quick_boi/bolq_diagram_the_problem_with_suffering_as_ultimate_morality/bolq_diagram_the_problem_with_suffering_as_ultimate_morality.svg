@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:960px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 960 212" width="960px" zoomAndPan="magnify"><defs/><g><g id="elem_the_problem_with_suffering_as_ultimate_morality"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="946" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="340" x="310" y="152.0052">the_problem_with_suffering_as_ultimate_morality</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="952" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="856" x="13" y="174.4934">Making choices about what is the right thing to do needs to go beyond suffering, because we may one day solve all suffering.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="952" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="934" x="13" y="198.9817">Morality should not be about suffering because in a post-suffering world there are still moral choices to be made about what to do next.</text></g><g id="elem_moral_knowledge"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="583" x="188.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="419" y="22.5352">moral_knowledge</text><line style="stroke:#181818;stroke-width:0.5;" x1="189.5" x2="770.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="266" x="194.5" y="45.0234">Morality is about what we should want.</text><line style="stroke:#181818;stroke-width:0.5;" x1="189.5" x2="770.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="571" x="194.5" y="69.5117">Morality is about understanding moral knowledge. What it is that should be sought.</text></g><!--MD5=[75a7630bee0b4df8fa2a498a9f53a8e3]
+reverse link moral_knowledge to the_problem_with_suffering_as_ultimate_morality--><g id="link_moral_knowledge_the_problem_with_suffering_as_ultimate_morality"><path codeLine="7" d="M480,82.63 C480,99.89 480,119.87 480,136.39 " fill="none" id="moral_knowledge-backto-the_problem_with_suffering_as_ultimate_morality" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="480,77.89,476,86.89,480,82.89,484,86.89,480,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[38ff4e359b58f93f3de28a73154b7181]
+@startuml bolq_diagram_the_problem_with_suffering_as_ultimate_morality
+
+object the_problem_with_suffering_as_ultimate_morality {
+Making choices about what is the right thing to do needs to go beyond suffering, because we may one day solve all suffering.
+____
+Morality should not be about suffering because in a post-suffering world there are still moral choices to be made about what to do next.
+}
+moral_knowledge <- - the_problem_with_suffering_as_ultimate_morality
+
+object moral_knowledge {
+Morality is about what we should want.
+____
+Morality is about understanding moral knowledge. What it is that should be sought.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

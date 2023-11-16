@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1605px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1605 212" width="1605px" zoomAndPan="magnify"><defs/><g><g id="elem_quantum_computers_are_possible"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1183" x="211" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="235" x="685" y="152.0052">quantum_computers_are_possible</text><line style="stroke:#181818;stroke-width:0.5;" x1="212" x2="1393" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="867" x="217" y="174.4934">Computation is a branch of physics, so anything that is physical can be computed. A quantum computer can be built to do this.</text><line style="stroke:#181818;stroke-width:0.5;" x1="212" x2="1393" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1171" x="217" y="198.9817">The proof in 1985 by Deutsch of the universality of quantum computation is evidence that a computer composed of quantum elements can perform quantum computation.</text></g><g id="elem_the_universality_of_quantum_computation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1591" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="291" x="657" y="22.5352">the_universality_of_quantum_computation</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1597" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="575" x="13" y="45.0234">There is a proof what shows that the laws of the universe can be run on a computer.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1597" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1579" x="13" y="69.5117">The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.</text></g><!--MD5=[f2af210dc06afcddbf82ce730157a880]
+reverse link the_universality_of_quantum_computation to quantum_computers_are_possible--><g id="link_the_universality_of_quantum_computation_quantum_computers_are_possible"><path codeLine="7" d="M802.5,82.63 C802.5,99.89 802.5,119.87 802.5,136.39 " fill="none" id="the_universality_of_quantum_computation-backto-quantum_computers_are_possible" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="802.5,77.89,798.5,86.89,802.5,82.89,806.5,86.89,802.5,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d26381c79e384aed2eaae3e4f6a4bf60]
+@startuml bolq_diagram_quantum_computers_are_possible
+
+object quantum_computers_are_possible {
+Computation is a branch of physics, so anything that is physical can be computed. A quantum computer can be built to do this.
+____
+The proof in 1985 by Deutsch of the universality of quantum computation is evidence that a computer composed of quantum elements can perform quantum computation.
+}
+the_universality_of_quantum_computation <- - quantum_computers_are_possible
+
+object the_universality_of_quantum_computation {
+There is a proof what shows that the laws of the universe can be run on a computer.
+____
+The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

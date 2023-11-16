@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="358px" preserveAspectRatio="none" style="width:583px;height:358px;background:#FFFFFF;" version="1.1" viewBox="0 0 583 358" width="583px" zoomAndPan="magnify"><defs/><g><g id="elem_that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world"><rect fill="#F1F1F1" height="85.9531" style="stroke:#181818;stroke-width:0.5;" width="570" x="7" y="265.93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="556" x="14" y="281.4652">that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="576" y1="286.4183" y2="286.4183"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="13" y="303.9534">```</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="440" x="13" y="320.4417">Moloch idea is spreading, but that does not make it a good idea.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="576" y1="327.3948" y2="327.3948"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="13" y="344.93">Bad ideas can replicate as memes.</text></g><g id="elem_useful_memes_tend_to_survive"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="449" x="67.5" y="136.46"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="186" y="151.9952">useful_memes_tend_to_survive</text><line style="stroke:#181818;stroke-width:0.5;" x1="68.5" x2="515.5" y1="156.9483" y2="156.9483"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="363" x="73.5" y="174.4834">People adopt memes if they are useful to themselves.</text><line style="stroke:#181818;stroke-width:0.5;" x1="68.5" x2="515.5" y1="181.4366" y2="181.4366"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="437" x="73.5" y="198.9717">A meme that is appealing to a diverse group of people is useful.</text></g><g id="elem_reach_of_explanations"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="507" x="38.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="214.5" y="22.5352">reach_of_explanations</text><line style="stroke:#181818;stroke-width:0.5;" x1="39.5" x2="544.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="44.5" y="45.0234">Ideas have impact on the real world</text><line style="stroke:#181818;stroke-width:0.5;" x1="39.5" x2="544.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="495" x="44.5" y="69.5117">Explanations have effects on multiple areas beyond the original context.</text></g><!--MD5=[69da0a13e656bc2ab47be9ebf0020d69]
+reverse link useful_memes_tend_to_survive to that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world--><g id="link_useful_memes_tend_to_survive_that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world"><path codeLine="9" d="M292,211.69 C292,228.56 292,248.27 292,265.45 " fill="none" id="useful_memes_tend_to_survive-backto-that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="292,207.09,288,216.09,292,212.09,296,216.09,292,207.09" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[af4bd9385186d5098eb569e42b34b938]
+reverse link reach_of_explanations to useful_memes_tend_to_survive--><g id="link_reach_of_explanations_useful_memes_tend_to_survive"><path codeLine="16" d="M292,82.63 C292,99.89 292,119.87 292,136.38 " fill="none" id="reach_of_explanations-backto-useful_memes_tend_to_survive" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="292,77.89,288,86.89,292,82.89,296,86.89,292,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[66aae475056f1763de0c9135e17b35fa]
+@startuml bolq_diagram_that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world
+
+object that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world {
+
+```
+Moloch idea is spreading, but that does not make it a good idea.
+____
+Bad ideas can replicate as memes.
+}
+useful_memes_tend_to_survive <- - that_moloch_is_a_meme_does_not_make_it_useful_for_understanding_the_world
+
+object useful_memes_tend_to_survive {
+People adopt memes if they are useful to themselves.
+____
+A meme that is appealing to a diverse group of people is useful.
+}
+reach_of_explanations <- - useful_memes_tend_to_survive
+
+object reach_of_explanations {
+Ideas have impact on the real world
+____
+Explanations have effects on multiple areas beyond the original context.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

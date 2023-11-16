@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1479px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1479 212" width="1479px" zoomAndPan="magnify"><defs/><g><g id="elem_why_theories_with_truth_are_elegant_needs_an_explanation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1465" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="415" x="532" y="152.0052">why_theories_with_truth_are_elegant_needs_an_explanation</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1471" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1453" x="13" y="174.4934">Both scientists and artists use waste paper baskets and create beautiful work. If you can be wrong, then there is an objective. So because both can be wrong and both can create beauty, perhaps beauty is objective.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1471" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="859" x="13" y="198.9817">The analogy of artists and scientists in their creative endeavours points toward a common theme: that objective beauty exists.</text></g><g id="elem_the_waste_paper_basket_explains_why_art_has_objective_truth"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="680" x="90.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="432" x="214.5" y="22.5352">the_waste_paper_basket_explains_why_art_has_objective_truth</text><line style="stroke:#181818;stroke-width:0.5;" x1="91.5" x2="769.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="668" x="96.5" y="45.0234">An artist discards things while they work. This is evidence that they work toward objective criteria.</text><line style="stroke:#181818;stroke-width:0.5;" x1="91.5" x2="769.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="583" x="96.5" y="69.5117">That an artist discards intermediate works implies that they have an objective criteria.</text></g><g id="elem_elegance_is_a_heuristic_for_objective_beauty"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="489" x="805" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="308" x="895.5" y="22.5352">elegance_is_a_heuristic_for_objective_beauty</text><line style="stroke:#181818;stroke-width:0.5;" x1="806" x2="1293" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="477" x="811" y="45.0234">Theories that are elegant seem to be more likely to hold actual truths.</text><line style="stroke:#181818;stroke-width:0.5;" x1="806" x2="1293" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="373" x="811" y="69.5117">Elegance in science can be a useful guide to find truth.</text></g><!--MD5=[4737898d74a88dbd4595a4fab4da5d69]
+reverse link the_waste_paper_basket_explains_why_art_has_objective_truth to why_theories_with_truth_are_elegant_needs_an_explanation--><g id="link_the_waste_paper_basket_explains_why_art_has_objective_truth_why_theories_with_truth_are_elegant_needs_an_explanation"><path codeLine="7" d="M518.82,79.17 C562.19,97.06 614.14,118.48 656.73,136.06 " fill="none" id="the_waste_paper_basket_explains_why_art_has_objective_truth-backto-why_theories_with_truth_are_elegant_needs_an_explanation" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="514.31,76.89,521.098,84.026,518.9304,78.8009,524.1555,76.6333,514.31,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ae6ca4e5f47ab437d177bd2fa55f9a7b]
+reverse link elegance_is_a_heuristic_for_objective_beauty to why_theories_with_truth_are_elegant_needs_an_explanation--><g id="link_elegance_is_a_heuristic_for_objective_beauty_why_theories_with_truth_are_elegant_needs_an_explanation"><path codeLine="8" d="M960.89,79.17 C917.38,97.06 865.27,118.48 822.53,136.06 " fill="none" id="elegance_is_a_heuristic_for_objective_beauty-backto-why_theories_with_truth_are_elegant_needs_an_explanation" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="965.43,76.89,955.5852,76.6073,960.8045,78.7887,958.6232,84.0081,965.43,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[131941bde11ac0800e09adf478c95bcc]
+@startuml bolq_diagram_why_theories_with_truth_are_elegant_needs_an_explanation
+
+object why_theories_with_truth_are_elegant_needs_an_explanation {
+Both scientists and artists use waste paper baskets and create beautiful work. If you can be wrong, then there is an objective. So because both can be wrong and both can create beauty, perhaps beauty is objective.
+____
+The analogy of artists and scientists in their creative endeavours points toward a common theme: that objective beauty exists.
+}
+the_waste_paper_basket_explains_why_art_has_objective_truth <- - why_theories_with_truth_are_elegant_needs_an_explanation
+elegance_is_a_heuristic_for_objective_beauty <- - why_theories_with_truth_are_elegant_needs_an_explanation
+
+object the_waste_paper_basket_explains_why_art_has_objective_truth {
+An artist discards things while they work. This is evidence that they work toward objective criteria.
+____
+That an artist discards intermediate works implies that they have an objective criteria.
+}
+
+object elegance_is_a_heuristic_for_objective_beauty {
+Theories that are elegant seem to be more likely to hold actual truths.
+____
+Elegance in science can be a useful guide to find truth.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

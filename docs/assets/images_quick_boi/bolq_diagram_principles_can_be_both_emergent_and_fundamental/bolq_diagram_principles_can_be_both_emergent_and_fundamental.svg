@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:798px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 798 212" width="798px" zoomAndPan="magnify"><defs/><g><g id="elem_principles_can_be_both_emergent_and_fundamental"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="784" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="361" x="218.5" y="152.0052">principles_can_be_both_emergent_and_fundamental</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="790" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="772" x="13" y="174.4934">Some important things (evolution or people) arise from complex systems and are important in many other fields.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="790" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="749" x="13" y="198.9817">Some principles, such as Neo-darwinism or the phenomenon of people, are both emergent and fundamental.</text></g><g id="elem_fundamental_theory"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="422" x="188" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="330" y="22.5352">fundamental_theory</text><line style="stroke:#181818;stroke-width:0.5;" x1="189" x2="609" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="311" x="194" y="45.0234">A theory that appears in many other theories.</text><line style="stroke:#181818;stroke-width:0.5;" x1="189" x2="609" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="410" x="194" y="69.5117">Fundamental theory appears inside many different theories.</text></g><!--MD5=[0a61b0faf150c763303db25ada240e6a]
+reverse link fundamental_theory to principles_can_be_both_emergent_and_fundamental--><g id="link_fundamental_theory_principles_can_be_both_emergent_and_fundamental"><path codeLine="7" d="M399,82.63 C399,99.89 399,119.87 399,136.39 " fill="none" id="fundamental_theory-backto-principles_can_be_both_emergent_and_fundamental" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="399,77.89,395,86.89,399,82.89,403,86.89,399,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[37431579e43559ff4aebf23e6d2e8c5b]
+@startuml bolq_diagram_principles_can_be_both_emergent_and_fundamental
+
+object principles_can_be_both_emergent_and_fundamental {
+Some important things (evolution or people) arise from complex systems and are important in many other fields.
+____
+Some principles, such as Neo-darwinism or the phenomenon of people, are both emergent and fundamental.
+}
+fundamental_theory <- - principles_can_be_both_emergent_and_fundamental
+
+object fundamental_theory {
+A theory that appears in many other theories.
+____
+Fundamental theory appears inside many different theories.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

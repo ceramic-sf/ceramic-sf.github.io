@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:1330px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 1330 212" width="1330px" zoomAndPan="magnify"><defs/><g><g id="elem_the_problem_with_evolutionary_algorithms"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1316" x="7" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="517" y="152.0052">the_problem_with_evolutionary_algorithms</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1322" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="922" x="13" y="174.4934">Current evolutionary algorithms are not true evolution. The code it is written in introduces knowledge indirectly from the programmer.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="1322" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1304" x="13" y="198.9817">True evolutionary algorithms require that the program has no goal. In all other goal-based algorithms the code has implicit knowledge with reach that has come from the programmers mind.</text></g><g id="elem_reach_of_explanations"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="507" x="411.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="587.5" y="22.5352">reach_of_explanations</text><line style="stroke:#181818;stroke-width:0.5;" x1="412.5" x2="917.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="417.5" y="45.0234">Ideas have impact on the real world</text><line style="stroke:#181818;stroke-width:0.5;" x1="412.5" x2="917.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="495" x="417.5" y="69.5117">Explanations have effects on multiple areas beyond the original context.</text></g><!--MD5=[0cff96b93c6cd261cf697e8159678239]
+reverse link reach_of_explanations to the_problem_with_evolutionary_algorithms--><g id="link_reach_of_explanations_the_problem_with_evolutionary_algorithms"><path codeLine="7" d="M665,82.63 C665,99.89 665,119.87 665,136.39 " fill="none" id="reach_of_explanations-backto-the_problem_with_evolutionary_algorithms" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="665,77.89,661,86.89,665,82.89,669,86.89,665,77.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[58a7cdcabb85a6a6acd5bd33eb380de4]
+@startuml bolq_diagram_the_problem_with_evolutionary_algorithms
+
+object the_problem_with_evolutionary_algorithms {
+Current evolutionary algorithms are not true evolution. The code it is written in introduces knowledge indirectly from the programmer.
+____
+True evolutionary algorithms require that the program has no goal. In all other goal-based algorithms the code has implicit knowledge with reach that has come from the programmers mind.
+}
+reach_of_explanations <- - the_problem_with_evolutionary_algorithms
+
+object reach_of_explanations {
+Ideas have impact on the real world
+____
+Explanations have effects on multiple areas beyond the original context.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

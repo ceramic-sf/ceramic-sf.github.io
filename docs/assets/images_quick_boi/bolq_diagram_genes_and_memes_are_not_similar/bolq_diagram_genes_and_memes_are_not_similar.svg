@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:699px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 699 212" width="699px" zoomAndPan="magnify"><defs/><g><g id="elem_genes_and_memes_are_not_similar"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="460" x="63.5" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="242" x="172.5" y="152.0052">genes_and_memes_are_not_similar</text><line style="stroke:#181818;stroke-width:0.5;" x1="64.5" x2="522.5" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="448" x="69.5" y="174.4934">There is not a lot of useful truth in comparing memes with genes.</text><line style="stroke:#181818;stroke-width:0.5;" x1="64.5" x2="522.5" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="426" x="69.5" y="198.9817">The popular analogy of genes and memes contains little truth.</text></g><g id="elem_memes_are_replicating_units"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="213" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="14" y="22.5352">memes_are_replicating_units</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="219" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="13" y="45.0234">TODO</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="219" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="13" y="69.5117">TODO.</text></g><g id="elem_the_problem_with_arguments_by_analogy"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="437" x="255" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="288" x="329.5" y="22.5352">the_problem_with_arguments_by_analogy</text><line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="691" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="261" y="45.0234">TODO</text><line style="stroke:#181818;stroke-width:0.5;" x1="256" x2="691" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="425" x="261" y="69.5117">Analogies require additional explanations to convey meaning.</text></g><!--MD5=[80033ec103ebcb01e13d78baab0f0f68]
+reverse link memes_are_replicating_units to genes_and_memes_are_not_similar--><g id="link_memes_are_replicating_units_genes_and_memes_are_not_similar"><path codeLine="7" d="M166.35,80.16 C191.38,97.88 221.06,118.9 245.44,136.17 " fill="none" id="memes_are_replicating_units-backto-genes_and_memes_are_not_similar" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="162.74,76.89,167.7837,85.3494,166.824,79.7745,172.3989,78.8149,162.74,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[88f9f9d2785fe8a433645ad07137a1e8]
+reverse link the_problem_with_arguments_by_analogy to genes_and_memes_are_not_similar--><g id="link_the_problem_with_arguments_by_analogy_genes_and_memes_are_not_similar"><path codeLine="8" d="M420.65,80.16 C395.62,97.88 365.94,118.9 341.56,136.17 " fill="none" id="the_problem_with_arguments_by_analogy-backto-genes_and_memes_are_not_similar" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="424.26,76.89,414.6011,78.8149,420.176,79.7745,419.2163,85.3494,424.26,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[87b84f7faac76ce708d497b2445bf723]
+@startuml bolq_diagram_genes_and_memes_are_not_similar
+
+object genes_and_memes_are_not_similar {
+There is not a lot of useful truth in comparing memes with genes.
+____
+The popular analogy of genes and memes contains little truth.
+}
+memes_are_replicating_units <- - genes_and_memes_are_not_similar
+the_problem_with_arguments_by_analogy <- - genes_and_memes_are_not_similar
+
+object memes_are_replicating_units {
+TODO
+____
+TODO.
+}
+
+object the_problem_with_arguments_by_analogy {
+TODO
+____
+Analogies require additional explanations to convey meaning.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>

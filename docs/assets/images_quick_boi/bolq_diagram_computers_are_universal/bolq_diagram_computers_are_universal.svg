@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="212px" preserveAspectRatio="none" style="width:2189px;height:212px;background:#FFFFFF;" version="1.1" viewBox="0 0 2189 212" width="2189px" zoomAndPan="magnify"><defs/><g><g id="elem_computers_are_universal"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="546" x="561" y="136.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="748.5" y="152.0052">computers_are_universal</text><line style="stroke:#181818;stroke-width:0.5;" x1="562" x2="1106" y1="156.9583" y2="156.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="534" x="567" y="174.4934">Computers can represent any physical thing, even physical things like biology.</text><line style="stroke:#181818;stroke-width:0.5;" x1="562" x2="1106" y1="181.4466" y2="181.4466"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="305" x="567" y="198.9817">Computers have the property of universality.</text></g><g id="elem_universality_is_about_doing_anything_and_everything"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="550" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="369" x="97.5" y="22.5352">universality_is_about_doing_anything_and_everything</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="556" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="420" x="13" y="45.0234">Systems that can be used to represent anything are universal.</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="556" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="538" x="13" y="69.5117">A system is universal if it contains enough expressibility to represent anything.</text></g><g id="elem_the_universality_of_quantum_computation"><rect fill="#F1F1F1" height="69.4648" style="stroke:#181818;stroke-width:0.5;" width="1591" x="591.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="291" x="1241.5" y="22.5352">the_universality_of_quantum_computation</text><line style="stroke:#181818;stroke-width:0.5;" x1="592.5" x2="2181.5" y1="27.4883" y2="27.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="575" x="597.5" y="45.0234">There is a proof what shows that the laws of the universe can be run on a computer.</text><line style="stroke:#181818;stroke-width:0.5;" x1="592.5" x2="2181.5" y1="51.9766" y2="51.9766"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="1579" x="597.5" y="69.5117">The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.</text></g><!--MD5=[a2963dc2e6947ed89bc6d1579359dc21]
+reverse link universality_is_about_doing_anything_and_everything to computers_are_universal--><g id="link_universality_is_about_doing_anything_and_everything_computers_are_universal"><path codeLine="7" d="M435.54,78.19 C513.85,96.27 608.66,118.16 686.14,136.06 " fill="none" id="universality_is_about_doing_anything_and_everything-backto-computers_are_universal" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="430.93,76.89,438.795,82.818,435.801,78.0185,440.6006,75.0245,430.93,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9b9534914d681b14a75766eeb35a424b]
+reverse link the_universality_of_quantum_computation to computers_are_universal--><g id="link_the_universality_of_quantum_computation_computers_are_universal"><path codeLine="8" d="M1233.19,78.19 C1154.73,96.27 1059.75,118.16 982.12,136.06 " fill="none" id="the_universality_of_quantum_computation-backto-computers_are_universal" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1237.81,76.89,1228.1394,75.0245,1232.939,78.0185,1229.945,82.818,1237.81,76.89" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f56d8266a3c7945d8890c1b1cc01a1af]
+@startuml bolq_diagram_computers_are_universal
+
+object computers_are_universal {
+Computers can represent any physical thing, even physical things like biology.
+____
+Computers have the property of universality.
+}
+universality_is_about_doing_anything_and_everything <- - computers_are_universal
+the_universality_of_quantum_computation <- - computers_are_universal
+
+object universality_is_about_doing_anything_and_everything {
+Systems that can be used to represent anything are universal.
+____
+A system is universal if it contains enough expressibility to represent anything.
+}
+
+object the_universality_of_quantum_computation {
+There is a proof what shows that the laws of the universe can be run on a computer.
+____
+The universality of quantum computation was proven in a 1986 Proof by Deutsch. It showed that quantum computers are possible. The Church-Turing-Deutsch-Lovelace principle states that every physical process can be simulated.
+}
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 03:01:30 AEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: AU
+--></g></svg>
